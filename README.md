@@ -68,6 +68,10 @@ Customer-Shopping-Behavior-Analysis
 │   ├── Customer_Behavior_Analysis_Dashboard.pbix
 │   └── Customer_Behavior_Dashboard.png
 │
+├── Reports
+│   ├── Business_Problem_Document.pdf
+│   └── Project_Report.pdf
+|
 ├── SQL
 │   └── customer_behavior_analysis_queries.sql
 |
