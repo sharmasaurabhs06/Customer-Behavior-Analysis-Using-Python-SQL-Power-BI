@@ -1,13 +1,12 @@
 # 🛍️ Customer Behavior Analysis
 
-> # 📊 End-to-End Data Analytics Project | Python • PostgreSQL • SQL • Power BI
+> # 📊 End-to-End Data Analytics Project | Python • MYSQL • Power BI
 
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-Business%20Analysis-blue?style=for-the-badge)
+![MYSQL](https://img.shields.io/badge/SQL-Business%20Analysis-blue?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi)
 ![GitHub](https://img.shields.io/badge/GitHub-Project-black?style=for-the-badge&logo=github)
 
