@@ -70,7 +70,9 @@ Customer-Shopping-Behavior-Analysis
 │
 ├── SQL
 │   └── customer_behavior_analysis_queries.sql
-│
+|
+└── LICENSE
+|
 └── README.md
 ```
 
