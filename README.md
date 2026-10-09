@@ -61,7 +61,7 @@ Customer-Shopping-Behavior-Analysis
 │   └── Clean_Data_File.csv
 |   └── Raw_Data_File.csv
 │
-├── Notebook
+├── Jupyter
 │   └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── PowerBI
