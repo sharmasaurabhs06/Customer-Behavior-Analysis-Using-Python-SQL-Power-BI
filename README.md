@@ -18,7 +18,7 @@
 
 This project demonstrates an **end-to-end Data Analytics workflow** for analyzing customer shopping behavior. The project covers the complete analytics pipeline from raw customer transaction data to interactive business dashboards.
 
-The objective is to discover customer purchasing patterns, identify high-value customer segments, analyze product performance, evaluate discount effectiveness, and generate actionable business insights using **Python, PostgreSQL, SQL, and Power BI**.
+The objective is to discover customer purchasing patterns, identify high-value customer segments, analyze product performance, evaluate discount effectiveness, and generate actionable business insights using **Python, MySQL, SQL, and Power BI**.
 
 ---
 
@@ -45,7 +45,7 @@ This project transforms raw customer data into meaningful business insights.
 |------|----------|
 | Python | Data Cleaning & Feature Engineering |
 | Pandas | Data Manipulation |
-| PostgreSQL | Database Management |
+| MySQL | Database Management |
 | SQL | Business Analysis |
 | Power BI | Dashboard Development |
 | Git & GitHub | Version Control |
