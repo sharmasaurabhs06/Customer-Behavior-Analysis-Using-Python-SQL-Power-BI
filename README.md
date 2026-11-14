@@ -86,7 +86,7 @@ Customer-Shopping-Behavior-Analysis
 
 <p align="center">
 
-<img src="Images/workflow_diagram.png" width="1000">
+<img width="2172" height="724" alt="Purple Data Workflow Pipeline" src="https://github.com/user-attachments/assets/c1618f8d-79b8-4eb9-91c9-c90cdf4b4ca8" />
 
 </p>
 
