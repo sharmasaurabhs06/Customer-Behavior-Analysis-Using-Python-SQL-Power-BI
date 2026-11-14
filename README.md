@@ -191,8 +191,6 @@ The dashboard provides an interactive overview of customer shopping behavior.
 
 ✔ Project Report
 
-✔ Project Presentation
-
 ---
 
 ## 👨‍💻 Author
