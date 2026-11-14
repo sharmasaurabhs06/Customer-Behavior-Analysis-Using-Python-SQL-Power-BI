@@ -153,7 +153,7 @@ The dashboard provides an interactive overview of customer shopping behavior.
 
 <p align="center">
 
-<img src="Images/Customer_Behavior_Dashboard.png" width="1000">
+<img src=""C:\Users\saurabh\Desktop\Customer Behavior Analysis Project\Customer_Behavior_Analysis_Dashboard.png"" width="1000">
 
 </p>
 
